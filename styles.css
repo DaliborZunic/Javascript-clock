@@ -43,11 +43,13 @@ body {
   flex: 0 1 900px;
   display: flex;
   flex-direction: column;
-  max-width: 800px;
+  max-width: 400px;
   text-align: center;
   margin: 0 20px;
+  gap: 30px;
 }
 
 #dayFrame {
   font-size: 30px;
+  letter-spacing: 6px;
 }
